@@ -18,22 +18,22 @@
 # 技能
 ## 前端
 * 精通JavaScript
-* 熟练使用react全家桶
-* 熟练使用es6
-* 熟悉echarts
+* 熟练使用React全家桶
+* 熟练使用ES6
+* 熟悉ECharts
 * 熟悉webpack、gulp等打包工具
-* 熟悉electron
+* 熟悉Electron
 
 ## 后端
-* 熟悉nodejs
-* 熟悉python
+* 熟悉Node.js
+* 熟悉Python
 
 ## 数据库
 * mongodb
 * postgresql
 
 ## 代码
-* 熟练使用git及github
+* 熟练使用Git及GitHub
 
 ## 交流
 * 利用工具基本做到无障碍阅读文档
@@ -41,11 +41,11 @@
 
 # 工作经历
 * 杭州京数信息技术有限公司(2017.10-?)
-> 前端利用react+antd+echarts开发单页面应用,后端利用node+数据库做中间层配合公司的java端编写的esql进行数据处理和整合.react和node均由个人完成.
+> 前端利用React+Ant Design+ECharts开发单页面应用,后端利用Node+数据库做中间层配合公司的Java端编写的esql进行数据处理和整合.React和Node均由个人完成.
 * 杭州黑鸟科技有限公司(2017.3-2017.10)
-> 利用react+electron编写桌面应用程序
+> 利用React+Electron编写桌面应用程序
 * 杭州美间科技有限公司(2016.6-2016.10)
-> 利用python编写网络爬虫
+> 利用Python编写网络爬虫
 
 # 教育经历
 * 本科 温州医科大学 计算机科学与技术(2013.9-2017.6)
