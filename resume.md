@@ -21,6 +21,10 @@
 * 熟悉nodejs
 * 熟悉python
 
+## 数据库
+* mongodb
+* postgresql
+
 ## 代码
 * 熟练使用git及github
 
@@ -30,7 +34,7 @@
 
 # 工作经历
 * 杭州京数信息技术有限公司(2017.10-?)
-> 前端利用react+antd+echarts开发单页面应用,后端利用node做中间层配合公司的java端编写的esql进行数据处理和整合.react和node均由个人完成.
+> 前端利用react+antd+echarts开发单页面应用,后端利用node+数据库做中间层配合公司的java端编写的esql进行数据处理和整合.react和node均由个人完成.
 * 杭州黑鸟科技有限公司(2017.3-2017.10)
 > 利用react+electron编写桌面应用程序
 * 杭州美间科技有限公司(2016.6-2016.10)
